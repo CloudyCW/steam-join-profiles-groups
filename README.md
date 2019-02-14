@@ -10,4 +10,5 @@ This is a script that when you load it, it will join every group on someone's pr
 
 
 // Original file here: https://greasyfork.org/en/scripts/13424-join-all-groups-on-a-profile
+
 // Original Steam Guide here: https://steamcommunity.com/sharedfiles/filedetails/?id=849954952
